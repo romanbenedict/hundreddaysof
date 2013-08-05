@@ -1,0 +1,2 @@
+<? $categoryid = get_cat_ID( $category );//get category id from shortcode 
+	echo "<div class='container'><div class='main'><ul id='og-grid' class='og-grid'><li class='intronotes'>" . $content . "</li>"; ?>
